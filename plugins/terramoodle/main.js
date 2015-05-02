@@ -7,10 +7,10 @@ var templates = [
 define(templates, function (theme, loginForm, program) {
     var plugin = {
         settings: {
-            name: "mootes14",
+            name: "terramoodle",
             type: "general",
-            menuURL: "#mootes14",
-            icon: "plugins/events/icon.png",
+            menuURL: "#terramoodle",
+            icon: "img/folder.png",
             lang: {
                 component: "core"
             }
