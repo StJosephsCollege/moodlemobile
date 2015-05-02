@@ -8,18 +8,18 @@ h1 {
  color: #fa8f1c;
 }
 h2 {
- color: #fa8f1c;
- background-color: #7a8a94;
+ color: #FAFAFA;
+ background-color: #E53935;
 }
 .header-main {
- color: #fa8f1c;
- background: #EDEDED;
+ color: #FAFAFA;
+ background: #E53935;
 }
 #page-title {
  text-shadow: none;
 }
 .user-menu {
- background: #FFFFFF;
+ background: #424242;
 }
 .user-menu h2 {
  color: #4b565d;
@@ -40,5 +40,5 @@ h2 {
 
 .user-menu header {
  color: #fa8f1c;
- background: #EDEDED ;
+ background: #E53935 ;
 }
