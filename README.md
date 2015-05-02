@@ -1,5 +1,9 @@
-terraMOODLE Mobile
+eTerrace Mobile
 ============
+
+Welcome to the eTerrace repo. Based off of MoodleMobile repos, eTerrace is the signature app for terrace, combining sports twitter feeds, website access, and best of all, a completely native moodle experience, right on your phone.
+
+Please, PLEASE do not commit changes to this repo. If you have features you think might be useful for the college, fork the repo, make your changes and email me a link to your git at s7140501@terrace,qld.edu.au
 
 This is the forked St. Joseph's College repo of source code for the official Moodle Mobile app.
 
