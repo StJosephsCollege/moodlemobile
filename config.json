@@ -1,4 +1,4 @@
-{
+﻿{
 "app_id" : "com.terrace.eterrace",
 "versioncode" : "388",
 "versionname" : "1.2",
@@ -8,7 +8,7 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource", "assign", "terramoodle"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "https://github.com/StJosephsCollege/moodlemobile/blob/collegeapp/config.json", "username": ""},
+"presets" : {"url": "http://moodle.terrace.qld.edu.au", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
