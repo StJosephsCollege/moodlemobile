@@ -1,5 +1,5 @@
 {
-"name": "Moodle Mobile",
+"name": "terraMOODLE Mobile",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
@@ -64,6 +64,11 @@
     "fullname": "Daniel Ramírez",
     "contribution": "Contributor (developer Window version)",
     "company": "CV&A Consulting"
+}
+{
+    "fullname": "Isaac Wade",
+    "contribution": "Contributor (developer terraMoodle version)",
+    "company": "St. Joseph's College Gregory Terrace"
 }
 ],
 "thirdpartylibs": [
