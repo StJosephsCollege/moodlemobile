@@ -1,7 +1,7 @@
-Moodle Mobile
+terraMOODLE Mobile
 ============
 
-This is the primary repository of source code for the official Moodle Mobile app.
+This is the forked St. Joseph's College repo of source code for the official Moodle Mobile app.
 
 User documentation: http://docs.moodle.org/en/Mobile_app
 
