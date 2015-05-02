@@ -4,11 +4,11 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.terrace.eterrace"
         versionCode = "388"
-        version   = "1.2">
+        version   = "1.46.1">
     <name>eTerrace</name>
 
     <description>
-        terraMOODLE Mobile app for Terrace students
+        eTerrace: The official mobile app of St. Joseph's College Gregory Terrace
     </description>
 
     <author href="http://terrace.qld.edu.au" email="s7140501@terrace.qld.edu.au">
@@ -60,7 +60,8 @@
     <gap:splash src="img/splash/android/android_mdpi_portrait.png" gap:platform="android" gap:density="mdpi"/>
     <gap:splash src="img/splash/android/android_hdpi_portrait.png" gap:platform="android" gap:density="hdpi"/>
     <gap:splash src="img/splash/android/android_xhdpi_portrait.png" gap:platform="android" gap:density="xhdpi"/>
-
+	<gap:splash src="img/splash/android/android_xxhdpi_portrait.png" gap:platform="android" gap:density="xxhdpi"/>
+	
     <gap:splash src="img/splash/ios/iphone_portrait.png" gap:platform="ios" width="320" height="480"/>
     <gap:splash src="img/splash/ios/iphone_retina_portrait.png" gap:platform="ios" width="640" height="960"/>
     <gap:splash src="img/splash/ios/iphone5.png" gap:platform="ios" width="640" height="1136" />
