@@ -1,7 +1,7 @@
 var templates = [
-    "root/externallib/text!root/plugins/mootes14/theme.css",
-    "root/externallib/text!root/plugins/mootes14/login.html",
-    "root/externallib/text!root/plugins/mootes14/program.html"
+    "root/externallib/text!root/plugins/terramoodle/theme.css",
+    "root/externallib/text!root/plugins/terramoodle/login.html",
+    "root/externallib/text!root/plugins/terramoodle/program.html"
 ];
 
 define(templates, function (theme, loginForm, program) {
@@ -17,13 +17,13 @@ define(templates, function (theme, loginForm, program) {
         },
 
         routes: [
-            ["mootes14", "show_program", "showProgram"]
+            ["terramoodle", "show_program", "showProgram"]
         ],
 
         showProgram: function() {
             var tpl = {};
             var html = MM.tpl.render(program, tpl);
-            MM.panels.show('center', html, {title: MM.lang.s("mootes14")});
+            MM.panels.show('center', html, {title: MM.lang.s("terramoodle")});
         }
     };
 
