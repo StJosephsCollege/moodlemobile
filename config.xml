@@ -2,10 +2,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.terrace.moodle"
+        id        = "com.terrace.eterrace"
         versionCode = "388"
-        version   = "1.14">
-    <name>terraMOODLE Mobile</name>
+        version   = "1.2">
+    <name>eTerrace</name>
 
     <description>
         terraMOODLE Mobile app for Terrace students
