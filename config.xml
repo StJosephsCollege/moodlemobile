@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.terrace.eterrace"
         versionCode = "388"
-        version   = "1.46.1">
+        version   = "1.48.1">
     <name>eTerrace</name>
 
     <description>
