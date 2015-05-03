@@ -2,8 +2,6 @@ var templates = [
     "root/externallib/text!root/plugins/terramoodle/theme.css",
     "root/externallib/text!root/plugins/terramoodle/login.html",
     "root/externallib/text!root/plugins/terramoodle/program.html"
-	"root/externallib/text!root/plugins/terramoodle/studentcafe.html"
-	"root/externallib/text!root/plugins/terramoodle/tmail.html"
 ];
 
 define(templates, function (theme, loginForm, program) {
